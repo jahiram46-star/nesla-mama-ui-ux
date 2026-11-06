@@ -1,0 +1,6 @@
+{
+  "name": "BeamLoad - Erlang Load Balancer Monitor for Xano Clusters",
+  "description": "Real-time client-side monitoring dashboard for an Erlang/OTP load balancer managing up to 20 Xano backend servers with live metrics, traffic simulation, failover controls, and BEAM telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
